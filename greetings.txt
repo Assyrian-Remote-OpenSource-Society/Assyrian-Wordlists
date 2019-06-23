@@ -4,7 +4,7 @@ shlama
 shlomo
 ܫܲܝܢܵܐ
 # šulmu, allû
-^ yhb šlm, īhāb šlāmā, šlāmā
+^ yhb šlm, īhāb šlāmā, šlāmā, hl
 
 peace, wellbeing
 shlama
@@ -21,3 +21,11 @@ shayno
 ܫܲܝܢܵܐ
 # salīmu
 ^ šyn
+
+goodbye
+poosh b'shena
+ܦܘܼܫ ܒܫܲܝܢܵܐ
+fish b'shayno
+ܦܽܘܫ ܒܫܲܝܢܵܐ
+# pūšbašlāmu, ina šulmi alik
+^ pṭr, pyṭr
