@@ -19,24 +19,27 @@ A repository for Assyrian wordlists that cover a wide range of topics, such as:
 
 Text files will be used for data entry until a platform has been developed for easier entry of data.
 
-In order to make the text files more programmatically consumable for conversion to other formats (such as JSON, XML, CSV), the following schema is going to be implemented in the text files.
+In order to make the text files more programmatically consumable for conversion to other formats (such as JSON, XML, CSV), an ordered schema is required. Order is sufficient, programmatically. However, to make it more easily parsable by the human eye, symbols will be used after the first 5 lines. 
+
+The following schema is to be implemented in the text files.
 
 **Schema**
 
-English Word
-Eastern Phonetic
-Eastern Assyriac
-Western Phonetic
-Western Assyriac
-\# Akkadian
-^ Aramaic
-: Example 1 in English
-: Example 1 in Eastern Phonetic
-: Example 1 in Eastern Assyriac
-: Example 1 in Western Phonetic
-: Example 1 in Western Assyriac
-: Example 2 in English
-: ...
+English Word <BR>
+Eastern Phonetic <BR>
+Eastern Assyriac <BR>
+Western Phonetic <BR>
+Western Assyriac <BR>
+\# Akkadian <BR>
+^ Aramaic <BR>
+? English Definition <BR>
+: Example 1 in English <BR>
+: Example 1 in Eastern Phonetic <BR>
+: Example 1 in Eastern Assyriac <BR>
+: Example 1 in Western Phonetic <BR>
+: Example 1 in Western Assyriac <BR>
+: Example 2 in English <BR>
+: ... <BR>
 
 **Indicators**
 
@@ -52,6 +55,7 @@ u <BR>
 ܘ <BR>
 \# u <BR>
 ^ wǝ <BR>
+? Connects parts of speech together where each part is included jointly with the other connected part(s). <BR>
 : This and that. <BR>
 : aha u a'ya <BR>
 : ܐܵܗܵܐ ܘ ܐܲܝܵܐ <BR>
@@ -59,6 +63,23 @@ u <BR>
 : ܐܳܗܳܐ ܘ ܐܰܝܳܐ <BR>
 : Ink and paper. <BR>
 : ...  <BR>
+
+**Requirements**
+
+It is required to notate and include each row up to the 8th one. Where there is no definition available, add the following to the 8th row, indicating acknowledgement of the absence of data:
+
+? ... <BR>
+
+It is not required to add a 9th row where there is no example. After row 8, the word entry is complete. The absence of example(s) for the word is assumed where it is not noted. Such as below:
+
+and <BR>
+u <BR>
+ܘ <BR>
+u <BR>
+ܘ <BR>
+\# u <BR>
+^ wǝ <BR>
+? ... <BR>
 
 ## Contribution
 
