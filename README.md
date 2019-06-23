@@ -43,8 +43,8 @@ Western Assyriac <BR>
 
 **Indicators**
 
-*Indicator for potential loan word
-... Indicator for absence of data (not yet filled)
+\*Indicator for potential loan word <BR>
+... Indicator for absence of data (not yet filled) <BR>
 
 **Example**
 
