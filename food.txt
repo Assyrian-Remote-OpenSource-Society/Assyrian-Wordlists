@@ -1,10 +1,16 @@
-Dolma - stuffed cabbage/grape leaves, often stuffed with meat rice and veggies (popular in places like Greece and Romania)
-Biryani - a curry rice with meat 
-Makloubi - rice dish with lamb and other ingredients 
-Kifteh - a meatball soup
-Dikhwa - a barley and yoghurt soup 
-Gurgur - a cracked wheat dish 
-Tepsi - a baked potato and eggplant dish 
-Geymar - clotted cream
-*Rooza (Greek loan word) - rice – ܪܘܼܙܵܐ
-Shoorwa - ܫܘܼܪܒ݂ܵܐ – soup, stew, broth
+dolma - stuffed cabbage/grape leaves, often stuffed with meat rice and veggies (popular in places like Greece and Romania)
+biryani - a curry rice with meat 
+makloubi - rice dish with lamb and other ingredients 
+kifteh - a meatball soup
+dikhwa - a barley and yoghurt soup 
+gurgur - a cracked wheat dish 
+tepsi - a baked potato and eggplant dish 
+geymar - clotted cream
+*rooza (Greek loan word) - rice – ܪܘܼܙܵܐ
+shoorwa - ܫܘܼܪܒ݂ܵܐ – soup, stew, broth
+lakhma - ܠܲܟ݂ܡܵܐ - bread
+mia - water
+khalwa - milk
+boosra - meat
+kiteta - chicken
+fish - noona
