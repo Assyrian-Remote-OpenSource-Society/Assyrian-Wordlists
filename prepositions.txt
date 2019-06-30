@@ -109,6 +109,13 @@ al’haid - given that, since, whereas, because of - ܥܲܠ ܗܵܝ ܕ
 am' - with, together with, among / amongst / amidst - ܥܲܡ
 — am’oodaali; moidaale - with together, amongst each other
 #Akkadian (at, next to, among): qanni
+^ ...
+? ...
+: with their children
+: ime d'yale
+: ܥܸܡܲܝ ܕܝܵܠܲ̈ܝ
+: ...
+: ...
 
 hal - to, until, as far as
 #Akkadian: adi, adu
@@ -137,3 +144,4 @@ minbaar - after
 
 b'la - without
 #Akkadian: balu
+
