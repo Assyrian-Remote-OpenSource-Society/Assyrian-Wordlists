@@ -1,16 +1,16 @@
 hello
 shlama
-ܫܲܝܢܵܐ
+ܫܠܵܡܵܐ
 shlomo
-ܫܲܝܢܵܐ
+ܫܠܳܡܳܐ
 # šulmu, allû
 ^ yhb šlm, īhāb šlāmā, šlāmā, hl
 
 peace, wellbeing
 shlama
-ܫܲܝܢܵܐ
+ܫܠܵܡܵܐ
 shlomo
-ܫܲܝܢܵܐ
+ܫܠܳܡܳܐ
 # salīmu, salāmu, selēmu
 ^ šlm, šǝlām, šǝlāmā
 
@@ -18,7 +18,7 @@ peace
 shena
 ܫܲܝܢܵܐ
 shayno
-ܫܲܝܢܵܐ
+ܫܰܝܢܳܐ
 # salīmu
 ^ šyn
 
