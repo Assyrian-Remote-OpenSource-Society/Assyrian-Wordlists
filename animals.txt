@@ -1,1 +1,107 @@
+lion
+arya
+ܐܲܪܝܵܐ
+aryo
+ܐܰܪܝܳܐ
+# nēšu (neshoo); labbu, lābu; ūmu (oomoo: a mythical lion)
+^ ...
+? ...
 
+lioness
+aryeetha
+ܐܲܪܝܝܼܬܵܐ
+...
+ܐܰܪܝܺܝܬܳܐ
+# nēštu (neshtoo); labbutu, lābutu
+^ ...
+? ...
+
+cub
+aryoona
+ܐܲܪܝܘܼܢܵܐ
+...
+ܐܰܪܝܽܘܢܳܐ
+# gerru (also could mean puppy)
+^ ...
+? Lion cub; the young of lion; baby lion.
+
+cub
+batsha
+ܒܲܟ̰ܵܐ
+...
+ܒܰܟ̰ܳܐ
+# ...
+^ ...
+? The young of certain animals, such as bear, fox, lion, dog, and etc.
+
+eagle
+nishra
+ܢܸܫܪܵܐ
+...
+ܢܶܫܪܳܐ
+# našru (nashru); urinnu; erû (also vulture?)
+^ ...
+? ...
+
+vulture
+darda, kudra
+ܕܲܪܕܵܐ, ܟܘܼܕܪܵܐ
+...
+ܕܰܪܕܳܐ, ܟܽܘܕܪܳܐ
+# uššu (oosh-shoo); te' uššu
+^ ...
+? ...
+
+hawk
+boorda
+ܒܘܼܪܕܵܐ
+...
+ܒܽܘܪܕܳܐ
+# surdû; kasūsu
+^ ...
+? ...
+
+falcon
+boozeeqa
+ܒܘܼܙܝܼܩܵܐ
+...
+ܒܽܘܙܺܝܩܳܐ
+# mesukku; surdû; kasūsu
+^ ...
+? ...
+
+owl
+booma
+ܒܘܼܡܵܐ
+...
+ܒܽܘܡܳܐ
+# akkû, akû; eššebu; qadû; ḫusû (a kind of owl)
+^ ...
+? ...
+
+dog
+kalba
+ܟܲܠܒܵܐ
+kalbo
+ܟܰܠܒܳܐ
+# kalbu
+^ ...
+? ...
+
+bitch
+kalibta
+ܟܲܠܸܒܬܵܐ
+...
+ܟܰܠܶܒܬܳܐ
+# kalbatu
+^ ...
+? Female dog.
+
+bitches
+kalbeeyatha, kalbeeyathe
+ܟܲܠ̈ܒܝܵܬܵܐ
+...
+ܟܰܠ̈ܒܝܳܬܳܐ
+# ...
+^ ...
+? Female dogs.
