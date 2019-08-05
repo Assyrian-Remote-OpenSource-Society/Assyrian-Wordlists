@@ -176,7 +176,7 @@ kho'sheeba, khadh b'shaba
 ܚܰܕ݇ ܒ݂ܫܰܒܳܐ, ܚܰܕ݂ ܒܫܰܒܳܐ
 # ...
 ^ ...
-? 1st of the week.
+? First of the week.
 
 monday
 tro'sheeba
@@ -185,7 +185,7 @@ tro'sheeba
 ܬܪܳܒ݂ܫܶܒܳܐ
 # ...
 ^ ...
-? 2nd of the week.
+? Second of the week.
 
 tuesday
 tdlo'sheeba, tdla tho'sheba
@@ -194,7 +194,7 @@ tdlo'sheeba, tdla tho'sheba
 ܛܠܳܫܶܒܳܐ, ܛܠܳܬ݂ܳܒ݂ܫܶܒܳܐ
 # ...
 ^ ...
-? 3rd of the week.
+? Third of the week.
 
 wednesday
 arbo'sheeba, arba b'shaba
@@ -212,7 +212,7 @@ khamsho'sheeba, khamish b'shaba
 ܚܰܡܫܳܒ݂ܫܶܒܳܐ, ܚܰܡܶܫ ܒܫܰܒܳܐ
 # ...
 ^ ...
-? Fifth day of the week.
+? Fifth of the week.
 
 friday
 roota
@@ -248,7 +248,7 @@ kha b'neesan
 ...
 # ...
 ^ ...
-? 1st of April
+? First of April
 
 january
 kanoon 2, kanoon kha'raya, tebet
