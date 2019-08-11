@@ -58,7 +58,7 @@ u <BR>
 \# u <BR>
 ^ wǝ <BR>
 ? Connects parts of speech together where each part is included jointly with the other connected part(s). <BR>
-- conjunction <BR>
+\- conjunction <BR>
 @ conjunctions <BR>
 : This and that. <BR>
 : aha u a'ya <BR>
@@ -84,7 +84,7 @@ u <BR>
 \# u <BR>
 ^ wǝ <BR>
 ? ... <BR>
-- conjunction <BR>
+\- conjunction <BR>
 @ conjunctions <BR>
 
 ## Contribution
