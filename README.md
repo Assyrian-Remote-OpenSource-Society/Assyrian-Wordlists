@@ -33,7 +33,7 @@ Western Assyriac <BR>
 \# Akkadian <BR>
 ^ Aramaic <BR>
 ? English Definition <BR>
-- Part of speech (noun, verb, adjective, adverb, pronoun, preposition, conjunction, interjection) <BR>
+\- Part of speech (noun, verb, adjective, adverb, pronoun, preposition, conjunction, interjection) <BR>
 @ Word list category <BR>
 : Example 1 in English <BR>
 : Example 1 in Eastern Phonetic <BR>
