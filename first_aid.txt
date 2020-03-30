@@ -1,0 +1,26 @@
+face cover 
+pata maksana
+ܦܵܬܵܐ ܡܲܣܵܢܵܐ
+fotho mkasyono 
+ܦܳܬ݂ܳܐ ܡܟܰܣܝܳܢܳܐ
+# ...
+^ ...
+? in to close/secure
+
+face cover
+maksana d'pata
+ܡܲܣܵܢܵܐ ܕܦܵܬܵܐ
+mkasyono d'fotho
+ܡܟܰܣܝܳܢܳܐ ܕܦܳܬ݂ܳܐ
+# ...
+^ ...
+? in to close/secure
+
+face mask
+sitra d'pata
+ܣܸܬ݂ܪܵܐ ܕܦܵܬܵܐ
+setro d'fotho
+ܣܶܬܪܳܐ ܕܦܳܬ̣ܳܐ
+# ...
+^ ...
+? to mask/overlay
